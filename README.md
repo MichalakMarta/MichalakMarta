@@ -2,7 +2,7 @@
 
 Ukończyłam studia na kierunkach praca socjalna i polityka społeczna. Aktualnie pracuję w Urzędzie m.st. Warszawy. 
 
-Jakiś czas temu zainteresowałam się testowaniem oprogramowania co sprawiło, że zapragnęłam zmienić branżę (zmieniając wyszukiwanie błędów w dokumentach na odnajdywanie defektów w oprogramowaniu :smirk:).
+Jakiś czas temu zainteresowałam się testowaniem oprogramowania co sprawiło, że zapragnęłam zmienić branżę (zamieniając wyszukiwanie błędów w dokumentach na odnajdywanie defektów w oprogramowaniu :smirk:).
 
 Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramowania. Chciałabym dalej rozwijać swoje umiejętności w tym zakresie.
 
