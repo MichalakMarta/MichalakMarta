@@ -1,16 +1,57 @@
-### Hi there 👋
+### Nazywam się Marta Michalak. 
 
-<!--
-**MichalakMarta/MichalakMarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ukończyłam studia na kierunkach praca socjalna i polityka społeczna. Aktualnie pracuję w Urzędzie m.st. Warszawy. 
 
-Here are some ideas to get you started:
+Jakiś czas temu zainteresowałam się testowaniem oprogramowania co sprawiło, że zapragnęłam zmienić branżę (zmieniając wyszukiwanie błędów w dokumentach na odnajdywanie defektów w oprogramowaniu :smirk:).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramowania. Chciałabym dalej rozwijać swoje umiejętności w tym zakresie.
+
+
+
+## Swoją wiedzę czerpię m.in. z następujących źródeł:
+- Sylabus ISTQB FL,
+- wsparcie mentora z branży IT,
+
+## Kursy na Udemy.com:
+- R. Podraza - Praktyczny kurs testowania oprogramowania,
+- K. Raczyński - MySQL tworzenie i zarządzanie bazami danych.
+
+## Webinary:
+- B. Kita - Testowanie REST API dla początujących,
+- A. Gola - Tajniki konsoli deweloperskiej dla początkujących i przyszłych QA,
+- Testuj.pl - Testowanie manualne - jak wygląda w praktyce.
+
+Oprócz powyższych - tutoriale na Youtube. 
+
+## Przeczytane książki:
+- R. Smilgin - Zawód tester,
+- K. Pawłowska, N. Pawlak - Podróż przez świat testowania,
+
+W trakcie czytania:
+- B. Błaszczyk - English 4 IT.
+
+## Niektóre strony i blogi, z których czerpię wiedzę:
+- https://testuj.pl/
+- https://testerzy.pl/
+- https://www.wyszkolewas.com.pl/
+
+## Moja wiedza i umiejętności:
+- zgłaszanie defektów i potencjalnych usprawnień,
+- pisanie przypadków testowych,
+- testowanie REST API,
+- korzystanie z narzędzi kontroli wersji – Git,
+- praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
+- tworzenie raportów z przeprowadzonych testów,
+- znajomość głównych komend systemu Linux,
+- podstawowa wiedza o procesach wytwarzania oprogramowania oraz z zakresu relacyjnych baz danych MySQL,
+- znajomość języka angielskiego na poziomie średniozaawansowanym – B2,
+- dokładność i spostrzegawczość.
+
+## Obsługiwane narządzia:
+- Postman,
+- Jira,
+- GitHub Desktop,
+- MySQL Workbench,
+- Oracle VM VirtualBox.
+
+Zapraszam do zapoznania się z moim testerskim portfolio, na którym można znaleźć część moich prac.
