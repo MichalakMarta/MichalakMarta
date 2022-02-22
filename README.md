@@ -6,7 +6,24 @@ Jakiś czas temu zainteresowałam się testowaniem oprogramowania co sprawiło, 
 
 Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramowania. Chciałabym dalej rozwijać swoje umiejętności w tym zakresie.
 
+## Moja wiedza i umiejętności:
+- zgłaszanie defektów i potencjalnych usprawnień,
+- pisanie przypadków testowych,
+- testowanie REST API,
+- korzystanie z narzędzi kontroli wersji – Git,
+- praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
+- tworzenie raportów z przeprowadzonych testów,
+- znajomość głównych komend systemu Linux,
+- podstawowa wiedza o procesach wytwarzania oprogramowania oraz z zakresu relacyjnych baz danych MySQL,
+- znajomość języka angielskiego na poziomie średniozaawansowanym – B2,
+- dokładność i spostrzegawczość.
 
+## Obsługiwane narządzia:
+- Postman,
+- Jira,
+- GitHub Desktop,
+- MySQL Workbench,
+- Oracle VM VirtualBox.
 
 ## Swoją wiedzę czerpię m.in. z następujących źródeł:
 - Sylabus ISTQB FL,
@@ -35,23 +52,5 @@ W trakcie czytania:
 - https://testerzy.pl/
 - https://www.wyszkolewas.com.pl/
 
-## Moja wiedza i umiejętności:
-- zgłaszanie defektów i potencjalnych usprawnień,
-- pisanie przypadków testowych,
-- testowanie REST API,
-- korzystanie z narzędzi kontroli wersji – Git,
-- praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
-- tworzenie raportów z przeprowadzonych testów,
-- znajomość głównych komend systemu Linux,
-- podstawowa wiedza o procesach wytwarzania oprogramowania oraz z zakresu relacyjnych baz danych MySQL,
-- znajomość języka angielskiego na poziomie średniozaawansowanym – B2,
-- dokładność i spostrzegawczość.
-
-## Obsługiwane narządzia:
-- Postman,
-- Jira,
-- GitHub Desktop,
-- MySQL Workbench,
-- Oracle VM VirtualBox.
 
 Zapraszam do zapoznania się z moim testerskim portfolio, na którym można znaleźć część moich prac.
