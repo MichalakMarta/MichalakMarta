@@ -25,8 +25,8 @@ Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramo
 - MySQL Workbench,
 - Oracle VM VirtualBox.
 
-## Swoją wiedzę czerpię m.in. z następujących źródeł:
-- Sylabus ISTQB FL,
+## Wiedzę czerpię m.in. z następujących źródeł:
+- sylabus ISTQB FL,
 - wsparcie mentora z branży IT,
 
 ## Kursy na Udemy.com:
@@ -34,20 +34,20 @@ Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramo
 - K. Raczyński - MySQL tworzenie i zarządzanie bazami danych.
 
 ## Webinary:
-- B. Kita - Testowanie REST API dla początujących,
+- B. Kita - Testowanie REST API dla początkujących,
 - A. Gola - Tajniki konsoli deweloperskiej dla początkujących i przyszłych QA,
 - Testuj.pl - Testowanie manualne - jak wygląda w praktyce.
 
-Oprócz powyższych - tutoriale na Youtube. 
+Oprócz powyższych - tutoriale na YouTube. 
 
 ## Przeczytane książki:
 - R. Smilgin - Zawód tester,
-- K. Pawłowska, N. Pawlak - Podróż przez świat testowania,
+- K. Pawłowska, N. Pawlak - Podróż przez świat testowania.
 
 W trakcie czytania:
 - B. Błaszczyk - English 4 IT.
 
-## Niektóre strony i blogi, z których czerpię wiedzę:
+## Niektóre strony i blogi, które obserwuję:
 - https://testuj.pl/
 - https://testerzy.pl/
 - https://www.wyszkolewas.com.pl/
