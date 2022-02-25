@@ -18,7 +18,7 @@ Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramo
 - znajomość języka angielskiego na poziomie średniozaawansowanym – B2,
 - dokładność i spostrzegawczość.
 
-## Obsługiwane narządzia:
+## Obsługiwane narzędzia:
 - Postman,
 - Jira,
 - GitHub Desktop,
