@@ -2,9 +2,12 @@
 
 Ukończyłam studia na kierunkach praca socjalna i polityka społeczna. Aktualnie pracuję w Urzędzie m.st. Warszawy. 
 
-Jakiś czas temu zainteresowałam się testowaniem oprogramowania co sprawiło, że zapragnęłam zmienić branżę (zamieniając wyszukiwanie błędów w dokumentach na odnajdywanie defektów w oprogramowaniu :smirk:).
+Jakiś czas temu zainteresowałam się testowaniem oprogramowania co sprawiło, że zapragnęłam zmienić branżę. Swoją wiedzę czerpię z kursów, książek branżowych, webinarów, konferencji oraz z blogów poświęconych tematyce testerskiej. Zdobytą wiedzę utrwalam poprzez praktyczne zadania rozwiązywane pod okiem czujnego mentora. 
 
-Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramowania. Chciałabym dalej rozwijać swoje umiejętności w tym zakresie.
+Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramowania. Chciałabym dalej rozwijać swoje umiejętności w tym zakresie. Nie boję się nowych rzeczy i dążę do samodzielności. Myślę, że moja umiejętność wyłapywania błędów, dokładność i zaangażowanie z pewnością przydadzą się w codziennej pracy. W przyszłości chciałabym nauczyć się również automatyzacji testów.
+
+Moje prace dostępne są w poniższych repozytoriach lub na dysku pod linkiem: https://drive.google.com/drive/folders/1KpHOww8E_MPljYk9mYp4XteJLxHAEEPb?usp=sharing
+
 
 ## Moja wiedza i umiejętności:
 - zgłaszanie defektów i potencjalnych usprawnień,
@@ -23,6 +26,7 @@ Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramo
 - Jira,
 - GitHub Desktop,
 - MySQL Workbench,
+- Chrome DevTools,
 - Oracle VM VirtualBox.
 
 ## Wiedzę czerpię m.in. z następujących źródeł:
@@ -46,6 +50,9 @@ Oprócz powyższych - tutoriale na YouTube.
 
 W trakcie czytania:
 - B. Błaszczyk - English 4 IT.
+
+## Konferencje:
+- TestCump (YouTube Testuj.pl)
 
 ## Niektóre strony i blogi, które obserwuję:
 - https://testuj.pl/
