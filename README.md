@@ -37,6 +37,12 @@ Moje prace dostępne są w poniższych repozytoriach lub na dysku pod linkiem: h
 - R. Podraza - Praktyczny kurs testowania oprogramowania,
 - K. Raczyński - MySQL tworzenie i zarządzanie bazami danych.
 
+## Warsztaty:
+"Czy IT jest dla mnie?"
+  - Testowanie API HTTP,
+  - Podstawy SQL (część 1),
+  - Programowanie JavaScript (część 1).
+
 ## Webinary:
 - B. Kita - Testowanie REST API dla początkujących,
 - A. Gola - Tajniki konsoli deweloperskiej dla początkujących i przyszłych QA,
