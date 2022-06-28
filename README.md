@@ -1,4 +1,4 @@
-### Nazywam się Marta Michalak. 
+### Nazywam się Marta Michalak-Pałosz. 
 
 Ukończyłam studia na kierunkach praca socjalna i polityka społeczna. Aktualnie pracuję w Urzędzie m.st. Warszawy. 
 
