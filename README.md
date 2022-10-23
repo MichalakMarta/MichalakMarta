@@ -1,6 +1,6 @@
 ### Nazywam się Marta Michalak-Pałosz. 
 Ukończyłam studia I stopnia na kierunku praca socjalna oraz studia II stopnia na kierunku polityka społeczna. Po studiach przez 3 lata pracowałam w Urzędzie m.st. Warszawy. 
-Jednak od zawsze moje zaiteresowania były związane również z szeroko pojętą branżą IT. Pewnego dnia podjęłam decyzję o przekwalifikowaniu się na testera oprogramowania. 
+Jednak od zawsze moje zainteresowania były związane również z szeroko pojętą branżą IT. Pewnego dnia podjęłam decyzję o przekwalifikowaniu się na testera oprogramowania. 
 
 Od lipca 2022 r. pracuję na stanowisku Test Engineer w Orteh Sp. z o.o. 
 Do moich obowiązków należą m.in.:
