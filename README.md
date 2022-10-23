@@ -1,20 +1,29 @@
 ### Nazywam się Marta Michalak-Pałosz. 
+Ukończyłam studia I stopnia na kierunku praca socjalna oraz studia II stopnia na kierunku polityka społeczna. Po studiach przez 3 lata pracowałam w Urzędzie m.st. Warszawy. 
+Jednak od zawsze moje zaiteresowania były związane również z szeroko pojętą branżą IT. Pewnego dnia podjęłam decyzję o przekwalifikowaniu się na testera oprogramowania. 
 
-Ukończyłam studia na kierunkach praca socjalna i polityka społeczna. Aktualnie pracuję w Urzędzie m.st. Warszawy. 
-
-Jakiś czas temu zainteresowałam się testowaniem oprogramowania co sprawiło, że zapragnęłam zmienić branżę. Swoją wiedzę czerpię z kursów, książek branżowych, webinarów oraz z blogów poświęconych tematyce testerskiej. Zdobytą wiedzę utrwalam poprzez praktyczne zadania rozwiązywane pod okiem czujnego mentora. 
-
-Moim zawodowym celem stało się poznanie świata IT od strony testera oprogramowania. Chciałabym dalej rozwijać swoje umiejętności w tym zakresie. Nie boję się nowych rzeczy i dążę do samodzielności. Myślę, że moja umiejętność wyłapywania błędów, dokładność i zaangażowanie z pewnością przydadzą się w codziennej pracy. W przyszłości chciałabym nauczyć się również automatyzacji testów.
-
+Od lipca 2022 r. pracuję na stanowisku Test Engineer w Orteh Sp. z o.o. 
+Do moich obowiązków należą m.in.:
+- testy manualne (planowanie i przygotowywanie przypadków testowych, wykonywanie testów, zgłaszanie defektów, retesty, testy regresji),
+- przygotowywanie i aktualizowanie dokumentacji użytkownika aplikacji, 
+- obsługa zgłoszeń, monitorowanie postępów przy rozwiązywaniu błędów.
+ 
+Moim zawodowym calem jest dalsze zdobywanie doświadczenia w pracy jako tester oprogramowania oraz nauka i rozpoczęcie automatyzacji testów (w języku JavaScript). 
+ 
 Moje prace dostępne są w poniższych repozytoriach lub na dysku pod linkiem: https://drive.google.com/drive/folders/1KpHOww8E_MPljYk9mYp4XteJLxHAEEPb?usp=sharing
 
 
 ## Moja wiedza i umiejętności:
+- testy manualne aplikacji webowych i desktopowych,
 - zgłaszanie defektów i potencjalnych usprawnień,
-- pisanie przypadków testowych,
+- planowanie, przygotowywanie przypadków testowych,
+- retesty,
+- testy regresji,
+- praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
+- sporządzenie dokumentacji użytkownika aplikacji,
+- obsługa zgłoszeń w Customer Service,
 - testowanie REST API,
 - korzystanie z narzędzi kontroli wersji – Git,
-- praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
 - tworzenie raportów z przeprowadzonych testów,
 - znajomość głównych komend systemu Linux,
 - podstawowa wiedza o procesach wytwarzania oprogramowania oraz z zakresu relacyjnych baz danych MySQL,
@@ -22,46 +31,30 @@ Moje prace dostępne są w poniższych repozytoriach lub na dysku pod linkiem: h
 - dokładność i spostrzegawczość.
 
 ## Obsługiwane narzędzia:
-- Postman,
 - Jira,
+- Jira Service Desk,
+- Confluence,
+- Postman,
+- DevTools (Google Chrome, Firefox, Microsoft Edge),
+- Microsoft Visio,
+- Lucidchart,
 - GitHub Desktop,
+- Microsoft SQL Server Management Studio,
 - MySQL Workbench,
-- Chrome DevTools,
-- Oracle VM VirtualBox.
+- Oracle VM VirtualBox,
+- Visual Studio Code.
 
-## Wiedzę czerpię m.in. z następujących źródeł:
+## Dodatkowo wiedzę czerpię m.in. z następujących źródeł:
 - sylabus ISTQB FL,
 - wsparcie mentora z branży IT,
+- warsztaty,
+- webinary,
+- tutoriale na YouTube,
+- grupy i strony testerskie. 
 
 ## Kursy na Udemy.com:
-- R. Podraza - Praktyczny kurs testowania oprogramowania,
-- K. Raczyński - MySQL tworzenie i zarządzanie bazami danych.
-
-## Warsztaty:
-"Czy IT jest dla mnie?"
-  - Testowanie API HTTP,
-  - Podstawy SQL (część 1),
-  - Programowanie JavaScript (część 1).
-
-## Webinary:
-- B. Kita - Testowanie REST API dla początkujących,
-- A. Gola - Tajniki konsoli deweloperskiej dla początkujących i przyszłych QA,
-- Testuj.pl - Testowanie manualne - jak wygląda w praktyce.
-
-Oprócz powyższych - tutoriale na YouTube. 
-
-## Przeczytane książki:
-- R. Smilgin - Zawód tester,
-- K. Pawłowska, N. Pawlak - Podróż przez świat testowania.
-
-W trakcie czytania:
-- B. Błaszczyk - English 4 IT.
-
-
-## Niektóre strony i blogi, które obserwuję:
-- https://testuj.pl/
-- https://testerzy.pl/
-- https://www.wyszkolewas.com.pl/
+- K. Raczyński - MySQL tworzenie i zarządzanie bazami danych,
+- R. Podraza - Praktyczny kurs testowania oprogramowania.
 
 
 Zapraszam do zapoznania się z moim testerskim portfolio, na którym można znaleźć część moich prac.
