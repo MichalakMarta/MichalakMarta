@@ -16,7 +16,7 @@ Moje prace dostępne są w poniższych repozytoriach lub na dysku pod linkiem: h
 ## Moja wiedza i umiejętności:
 - testy manualne aplikacji webowych i desktopowych,
 - zgłaszanie defektów i potencjalnych usprawnień,
-- planowanie, przygotowywanie przypadków testowych,
+- planowanie i przygotowywanie przypadków testowych,
 - retesty,
 - testy regresji,
 - praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
