@@ -22,6 +22,7 @@ Moje prace dostępne są w poniższych repozytoriach lub na dysku pod linkiem: h
 - praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
 - sporządzenie dokumentacji użytkownika aplikacji,
 - obsługa zgłoszeń w Customer Service,
+- praca według metodyki Scrum,
 - testowanie REST API,
 - korzystanie z narzędzi kontroli wersji – Git,
 - tworzenie raportów z przeprowadzonych testów,
