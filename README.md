@@ -4,7 +4,7 @@ Jednak od zawsze moje zainteresowania były związane również z szeroko pojęt
 
 Od lipca 2022 r. pracuję na stanowisku Test Engineer w Orteh Sp. z o.o. 
 Do moich obowiązków należą m.in.:
-- testy manualne (planowanie i przygotowywanie przypadków testowych, wykonywanie testów, zgłaszanie defektów, retesty, testy regresji),
+- testy manualne aplikacji webowych i desktopowych (planowanie i przygotowywanie przypadków testowych, wykonywanie testów, zgłaszanie defektów, retesty, testy regresji),
 - przygotowywanie i aktualizowanie dokumentacji użytkownika aplikacji, 
 - obsługa zgłoszeń, monitorowanie postępów przy rozwiązywaniu błędów.
  
