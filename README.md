@@ -28,8 +28,8 @@ Moje prace dostępne są w poniższych repozytoriach lub na dysku pod linkiem: h
 - tworzenie raportów z przeprowadzonych testów,
 - znajomość głównych komend systemu Linux,
 - podstawowa wiedza o procesach wytwarzania oprogramowania oraz z zakresu relacyjnych baz danych MySQL,
-- znajomość języka angielskiego na poziomie średniozaawansowanym – B2,
-- dokładność i spostrzegawczość.
+- znajomość języka angielskiego na poziomie średniozaawansowanym – B2.
+
 
 ## Obsługiwane narzędzia:
 - Jira,
