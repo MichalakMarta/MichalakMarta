@@ -15,7 +15,7 @@ Do moich obowiązków należą m.in.:
 - obsługa zgłoszeń od użytkowników aplikacji w systemie Jira Service Desk, 
 - administrowanie zadaniami w systemie Jira,
 - monitorowanie postępów przy naprawianiu błędów.
-</br>
+
   
 ## Moje prace dostępne są w poniższych repozytoriach oraz na [dysku Google Drive](https://drive.google.com/drive/folders/1KpHOww8E_MPljYk9mYp4XteJLxHAEEPb?usp=sharing)
 - [testy automatyczne pól formularza rejestracji konta użytkownika [Road Code]](https://github.com/MichalakMarta/Road-Code),
@@ -68,6 +68,3 @@ Do moich obowiązków należą m.in.:
 ## Ukończone kursy na Udemy.com:
 - K. Raczyński - MySQL tworzenie i zarządzanie bazami danych,
 - R. Podraza - Praktyczny kurs testowania oprogramowania.
-
-
-Zapraszam do zapoznania się z moim testerskim portfolio, na którym można znaleźć część moich prac.
