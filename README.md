@@ -28,6 +28,7 @@ Aktualnie poszerzam swoją wiedzę w zakresie testów automatycznych.
 - wykorzystywanie i tworzenie schematów blokowych,
 - korzystanie z narzędzi kontroli wersji – Git,
 - praktyczne wykorzystanie konsoli deweloperskiej,
+- podstawowa wiedza z zakresu baz danych SQL,
 - znajomość głównych komend systemu Linux,
 - znajomość zagadnień z sylabusa ISTQB FL (brak certyfikatu),
 - znajomość języka angielskiego na poziomie B2.
