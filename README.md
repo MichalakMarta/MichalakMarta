@@ -1,5 +1,5 @@
 ### Cześć, nazywam się Marta Michalak-Pałosz. 
-Od blisko roku pracuję jako Test Engineer w firmie Orteh Sp. z o.o., w której zajmuję się prowadzeniem testów aplikacji dla takich 
+Od blisko roku pracuję jako Test Engineer w firmie Orteh Sp. z o.o., w której zajmuję się testowaniem aplikacji dla takich 
 przedsiębiorstw jak Nestlé oraz Henkel.
 Aktualnie poszerzam swoją wiedzę w zakresie testów automatycznych.
 
