@@ -1,10 +1,7 @@
-### Nazywam się Marta Michalak-Pałosz. 
-Ukończyłam studia I stopnia na kierunku praca socjalna oraz studia II stopnia na kierunku polityka społeczna. Po studiach przez 3 lata pracowałam w Urzędzie m.st. Warszawy. 
-Moje zainteresowania są również związane z szeroko pojętą branżą IT. Pewnego dnia podjęłam decyzję o przekwalifikowaniu się na testera oprogramowania. 
-</br></br>
-Od lipca 2022 r. pracuję na stanowisku Test Engineer w firmie Orteh Sp. z o.o., która dostarcza oprogramowanie dla przedsiębiorstw Nestlé oraz Henkel. 
-</br>
-Moim zawodowym celem jest dalsze zdobywanie doświadczenia w pracy jako tester oprogramowania oraz pogłębianie wiedzy z zakresu automatyzacji testów. 
+### Cześć, nazywam się Marta Michalak-Pałosz. 
+Od blisko roku pracuję jako Test Engineer w firmie Orteh Sp. z o.o., w której zajmuję się prowadzeniem testów aplikacji dla takich 
+przedsiębiorstw jak Nestlé oraz Henkel.
+Aktualnie poszerzam swoją wiedzę w zakresie testów automatycznych.
 
 ### Do moich obowiązków należą m.in.:
 - testy manualne aplikacji webowych i desktopowych,
@@ -12,8 +9,8 @@ Moim zawodowym celem jest dalsze zdobywanie doświadczenia w pracy jako tester o
 - automatyzacja testów aplikacji webowych (w języku JavaScript z wykorzystaniem biblioteki Selenium WebDriver oraz Mocha i Chai - poziom początkujący),
 - przygotowywanie i aktualizowanie dokumentacji użytkownika aplikacji w Confluence,
 - praca w metodyce Scrum,
-- obsługa zgłoszeń od użytkowników aplikacji w systemie Jira Service Desk, 
 - administrowanie zadaniami w systemie Jira,
+- obsługa zgłoszeń od użytkowników aplikacji w systemie Jira Service Desk, 
 - monitorowanie postępów przy naprawianiu błędów.
 
   
@@ -26,22 +23,14 @@ Moim zawodowym celem jest dalsze zdobywanie doświadczenia w pracy jako tester o
 
 (Dodatkowo niektóre prace zostały umieszczone na [dysku Google Drive](https://drive.google.com/drive/folders/1KpHOww8E_MPljYk9mYp4XteJLxHAEEPb?usp=sharing).)
 
-### Moja wiedza i umiejętności:
-- testy manualne aplikacji webowych i desktopowych,
-- zgłaszanie defektów i potencjalnych usprawnień,
-- planowanie i przygotowywanie przypadków testowych,
-- retesty,
-- testy regresji,
-- praktyczne wykorzystanie konsoli deweloperskiej w ramach procesu testowania aplikacji webowych,
-- sporządzanie dokumentacji użytkownika aplikacji,
-- obsługa zgłoszeń w Jira Service Desk, w tym bezpośredni kontakt z użytkownikiem aplikacji,
-- praca według metodyki Scrum,
+### Dodatkowa wiedza i umiejętności:
 - testowanie REST API,
+- wykorzystywanie i tworzenie schematów blokowych,
 - korzystanie z narzędzi kontroli wersji – Git,
-- podstawowa znajomość baz danych SQL,
+- praktyczne wykorzystanie konsoli deweloperskiej,
 - znajomość głównych komend systemu Linux,
-- podstawowa wiedza o procesach wytwarzania oprogramowania,
-- znajomość języka angielskiego na poziomie średniozaawansowanym – B2.
+- znajomość zagadnień z sylabusa ISTQB FL (brak certyfikatu),
+- znajomość języka angielskiego na poziomie B2.
 
 
 ### Obsługiwane narzędzia:
