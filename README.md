@@ -1,17 +1,48 @@
 ### Cześć, nazywam się Marta Michalak-Pałosz. 
-Aktualnie pracuję jako Test Engineer w firmie Orteh Sp. z o.o., w której zajmuję się manualnym testowaniem aplikacji dla takich 
-przedsiębiorstw jak Nestlé oraz Henkel.
-Poszerzam również swoją wiedzę w zakresie automatyzacji testów.
+Krótko o mnie: testerka oprogramowania z ponad 2-letnim doświadczeniem. Pracuję na stanowisku Specjalista ds. Testów w Sygnity S.A. 
 
-### Do moich obowiązków należą m.in.:
-- testy manualne aplikacji webowych i desktopowych,
-- planowanie i przygotowywanie przypadków testowych,
-- automatyzacja testów aplikacji webowych (w języku JavaScript z wykorzystaniem biblioteki Selenium WebDriver oraz Mocha i Chai - poziom początkujący),
-- przygotowywanie i aktualizowanie dokumentacji użytkownika aplikacji w Confluence,
-- praca w metodyce Scrum,
-- administrowanie zadaniami w systemie Jira,
-- obsługa zgłoszeń od użytkowników aplikacji w systemie Jira Service Desk, 
-- monitorowanie postępów przy naprawianiu błędów.
+Jestem częścią zespołu dostarczającego oprogramowanie dla sektora publicznego.
+
+### Zajmuję się m.in.:
+- testowaniem manualnym aplikacji webowych (testy funkcjonalne, eksploracyjne, retesty, regresja, integracyjne, dostępności),
+- planowaniem i przygotowywaniem przypadków testowych,
+- zgłaszaniem błędów i usprawnień,
+- tworzeniem i weryfikowaniem danych testowych w bazie danych SQL,
+- automatyzacją testów (Java, Selenium - poziom początkujący).
+- testowaniem usług sieciowych Web Services (SoupUI).
+
+Zapewniam jakość pracując w metodyce Scrum z zespołem programistów, analityków oraz PO.
+
+
+### Ponadto znane i używane w praktyce:
+- REST API,
+- schematy blokowe,
+- narzędzia kontroli wersji – Git,
+- konsola deweloperska,
+- bazy danych SQL,
+- główne komendy systemu Linux,
+- zagadnienia z sylabusa ISTQB FL (brak certyfikatu),
+- język angielski na poziomie B2.
+
+
+### Obsługiwane narzędzia:
+- Jira,
+- IntelliJ IDEA,
+- Visual Studio Code,
+- Postman,
+- SoupUI,
+- DevTools,
+- Jenkins,
+- Confluence,
+- Jira Service Desk,
+- Bitbucket,
+- GitHub Desktop,
+- DBeaver,
+- Microsoft SQL Server Management Studio,
+- MySQL Workbench,
+- Microsoft Visio,
+- Lucidchart,
+- Oracle VM VirtualBox.
 
   
 ### Zapraszam do zapoznania się z moim portfolio:
@@ -20,42 +51,3 @@ Poszerzam również swoją wiedzę w zakresie automatyzacji testów.
 - [pojedyncze zgłoszenia defektów](https://drive.google.com/file/d/1v4HZOU5SyIvD7XQNblJpExrqVVs7PuwW/view),
 - [schemat blokowy obiegu dokumentów](https://github.com/MichalakMarta/Schematy_blokowe/blob/main/Workflow%20schema.pdf),
 - [scenariusz testowy wybranych funkcji [Ticketmaster]](https://github.com/MichalakMarta/Ticketmaster).
-
-(Dodatkowo niektóre prace zostały umieszczone na [dysku Google Drive](https://drive.google.com/drive/folders/1KpHOww8E_MPljYk9mYp4XteJLxHAEEPb?usp=sharing).)
-
-### Dodatkowa wiedza i umiejętności:
-- testowanie REST API,
-- wykorzystywanie i tworzenie schematów blokowych,
-- korzystanie z narzędzi kontroli wersji – Git,
-- praktyczne wykorzystanie konsoli deweloperskiej,
-- podstawowa wiedza z zakresu baz danych SQL,
-- znajomość głównych komend systemu Linux,
-- znajomość zagadnień z sylabusa ISTQB FL (brak certyfikatu),
-- znajomość języka angielskiego na poziomie B2.
-
-
-### Obsługiwane narzędzia:
-- Jira,
-- Jira Service Desk,
-- Confluence,
-- Visual Studio Code,
-- Postman,
-- DevTools,
-- Microsoft Visio,
-- Lucidchart,
-- GitHub Desktop,
-- Microsoft SQL Server Management Studio,
-- MySQL Workbench,
-- Oracle VM VirtualBox.
-
-### Wiedzę czerpię m.in. z następujących źródeł:
-- wsparcie mentora z branży IT,
-- warsztaty,
-- sylabus ISTQB FL,
-- webinary,
-- tutoriale na YouTube,
-- grupy i strony testerskie. 
-
-### Ukończone kursy na Udemy.com:
-- K. Raczyński - MySQL tworzenie i zarządzanie bazami danych,
-- R. Podraza - Praktyczny kurs testowania oprogramowania.
